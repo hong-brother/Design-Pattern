@@ -1,5 +1,6 @@
 package singleton;
 
+import me.hsnam.singleton.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package singleton;
+package me.hsnam.singleton;
 
 public class DoubleCheckAppConfig {
 

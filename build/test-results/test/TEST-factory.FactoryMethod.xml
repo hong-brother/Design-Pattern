@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="factory.FactoryMethod" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-13T09:55:48" hostname="hsnamui-MacBookPro.local" time="0.132">
+  <properties/>
+  <testcase name="simple Factory pattern" classname="factory.FactoryMethod" time="0.132"/>
+  <system-out><![CDATA[Set Order
+building house...
+greencomplete house!
+building house...
+blackcomplete house!
+House(name=그린하우스, color=green, address=갑천면)
+House(name=블랙하우스, color=black, address=굴포로)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
