@@ -1,5 +1,8 @@
 package me.hsnam.factorymethod.base;
 
+/**
+ * Creator
+ */
 public class BlackHouse extends House{
     public BlackHouse() {
         setAddress("굴포로");

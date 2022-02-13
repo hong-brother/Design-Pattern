@@ -1,5 +1,8 @@
 package me.hsnam.factorymethod.base;
 
+/**
+ * Product
+ */
 public interface HouseFactory {
 
     default House orderHouse(String name, String email) {
