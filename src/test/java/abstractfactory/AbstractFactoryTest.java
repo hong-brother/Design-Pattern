@@ -7,7 +7,7 @@ import me.hsnam.abstractfactory.SuperCarPartsFactory;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class AbstractFactory {
+public class AbstractFactoryTest {
 
     @Test
     @DisplayName("추상 팩토리 테스트")

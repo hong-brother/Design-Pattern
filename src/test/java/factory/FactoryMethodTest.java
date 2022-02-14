@@ -6,7 +6,7 @@ import me.hsnam.factorymethod.base.House;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class FactoryMethod {
+public class FactoryMethodTest {
 
     @Test
     @DisplayName("simple Factory pattern")
